@@ -65,7 +65,5 @@ function keyDown(e) {
             alert(message);
             createText();
         }
-    } else {
-        checkTexts[0].classList.add('add-red');
     }
 }
